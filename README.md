@@ -1,7 +1,6 @@
-Pure mathematics BS, Rice STEM MBA (May 2026). Portfolio construction, factor
-research and strategy robustness across equity, credit and energy. Python, SQL, Git.
+Pure mathematics BS, Rice STEM MBA (May 2026). Company KPI forecasting from alternative data, factor research and strategy robustness across equity, credit and energy. Python, SQL, Git.
 
-Four things I built, each runnable without proprietary data:
+Five things I built, each runnable without proprietary data:
 
 - **[factor-ml-equity](https://github.com/syulimo/factor-ml-equity)**: rolling out-of-sample LightGBM on the US cross-section,
   725 OOS weeks, with the no-lookahead test that makes the number mean something.
