@@ -1,7 +1,9 @@
 Pure mathematics BS, Rice STEM MBA (May 2026). Company KPI forecasting from alternative data, factor research and strategy robustness across equity, credit and energy. Python, SQL, Git.
 
-Five things I built, each runnable without proprietary data:
+Six things I built, each runnable without proprietary data:
 
+- **[wind-performance-analysis](https://github.com/syulimo/wind-performance-analysis)**: lost energy attribution on 420,480 SCADA records from a real wind farm;
+  464 MWh split by driver and turbine, out-of-sample power curves, and a [live dashboard](https://syulimo.github.io/wind-performance-analysis/).
 - **[factor-ml-equity](https://github.com/syulimo/factor-ml-equity)**: rolling out-of-sample LightGBM on the US cross-section,
   725 OOS weeks, with the no-lookahead test that makes the number mean something.
 - **[nvda-supply-chain-nowcast](https://github.com/syulimo/nvda-supply-chain-nowcast)**: point-in-time test of Taiwan supplier revenue vs NVIDIA guidance; 79 SEC 8-K first prints, walk-forward over 46 quarters, look-ahead tests, pre-registered event study.
